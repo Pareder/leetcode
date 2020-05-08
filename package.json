@@ -1,0 +1,12 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "LeetCode problems & solutions",
+  "main": "index.js",
+  "repository": "https://github.com/Pareder/leetcode.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pareder",
+  "license": "ISC"
+}

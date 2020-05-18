@@ -11,3 +11,4 @@ LeetCode problems & solutions
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](algorithms/Remove%20Duplicates%20from%20Sorted%20Array/index.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](algorithms/Remove%20Element/index.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](algorithms/Implement%20strStr()/index.js)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](algorithms/Search%20Insert%20Position/index.js)|Easy|

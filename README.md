@@ -12,3 +12,4 @@ LeetCode problems & solutions
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](algorithms/Remove%20Element/index.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](algorithms/Implement%20strStr()/index.js)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](algorithms/Search%20Insert%20Position/index.js)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](algorithms/Plus%20One/index.js)|Easy|

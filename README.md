@@ -14,3 +14,4 @@ LeetCode problems & solutions
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](algorithms/Search%20Insert%20Position/index.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](algorithms/Plus%20One/index.js)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](algorithms/Add%20Binary/index.js)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](algorithms/Climbing%20Stairs/index.js)|Easy|

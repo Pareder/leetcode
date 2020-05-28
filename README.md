@@ -17,3 +17,4 @@ LeetCode problems & solutions
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](algorithms/Climbing%20Stairs/index.js)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](algorithms/Same%20Tree/index.js)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](algorithms/Maximum%20Depth%20of%20Binary%20Tree/index.js)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](algorithms/Path%20Sum/index.js)|Easy|

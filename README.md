@@ -18,3 +18,4 @@ LeetCode problems & solutions
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](algorithms/Same%20Tree/index.js)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](algorithms/Maximum%20Depth%20of%20Binary%20Tree/index.js)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](algorithms/Path%20Sum/index.js)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](algorithms/Pascal's%20Triangle/index.js)|Easy|

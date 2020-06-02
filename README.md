@@ -20,3 +20,4 @@ LeetCode problems & solutions
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](algorithms/Path%20Sum/index.js)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](algorithms/Pascal's%20Triangle/index.js)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.js)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/index.js)|Easy|

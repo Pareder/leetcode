@@ -23,3 +23,4 @@ LeetCode problems & solutions
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/index.js)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](algorithms/Valid%20Palindrome/index.js)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](algorithms/Single%20Number/index.js)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](algorithms/Linked%20List%20Cycle/index.js)|Easy|

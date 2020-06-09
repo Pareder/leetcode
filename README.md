@@ -24,3 +24,4 @@ LeetCode problems & solutions
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](algorithms/Valid%20Palindrome/index.js)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](algorithms/Single%20Number/index.js)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](algorithms/Linked%20List%20Cycle/index.js)|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[JavaScript](algorithms/Two%20Sum%20II%20-%20Input%20array%20is%20sorted/index.js)|Easy|

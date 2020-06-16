@@ -35,3 +35,4 @@ LeetCode problems & solutions
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](sql/Combine%20Two%20Tables/index.sql)|Easy|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](sql/Second%20Highest%20Salary/index.sql)|Easy|

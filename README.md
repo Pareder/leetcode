@@ -29,3 +29,9 @@ LeetCode problems & solutions
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](algorithms/Majority%20Element/index.js)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavaScript](algorithms/Excel%20Sheet%20Column%20Number/index.js)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[JavaScript](algorithms/Factorial%20Trailing%20Zeroes/index.js)|Easy|
+
+### LeetCode Database
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](sql/Combine%20Two%20Tables/index.sql)|Easy|

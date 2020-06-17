@@ -37,3 +37,4 @@ LeetCode problems & solutions
 |---| ----- | -------- | ---------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](sql/Combine%20Two%20Tables/index.sql)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](sql/Second%20Highest%20Salary/index.sql)|Easy|
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](sql/Employees%20Earning%20More%20Than%20Their%20Managers/index.sql)|Easy|

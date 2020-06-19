@@ -31,6 +31,7 @@ LeetCode problems & solutions
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[JavaScript](algorithms/Factorial%20Trailing%20Zeroes/index.js)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](algorithms/Rotate%20Array/index.js)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JavaScript](algorithms/Number%20of%201%20Bits/index.js)|Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[JavaScript](algorithms/House%20Robber/index.js)|Easy|
 
 ### LeetCode Database
 

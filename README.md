@@ -33,6 +33,7 @@ LeetCode problems & solutions
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JavaScript](algorithms/Number%20of%201%20Bits/index.js)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[JavaScript](algorithms/House%20Robber/index.js)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](algorithms/Happy%20Number/index.js)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[JavaScript](algorithms/Count%20Primes/index.js)|Easy|
 
 ### LeetCode Database
 

@@ -44,3 +44,4 @@ LeetCode problems & solutions
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](sql/Second%20Highest%20Salary/index.sql)|Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](sql/Employees%20Earning%20More%20Than%20Their%20Managers/index.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](sql/Duplicate%20Emails/index.sql)|Easy|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](sql/Customers%20Who%20Never%20Order/index.sql)|Easy|

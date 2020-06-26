@@ -35,6 +35,7 @@ LeetCode problems & solutions
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](algorithms/Happy%20Number/index.js)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[JavaScript](algorithms/Count%20Primes/index.js)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](algorithms/Isomorphic%20Strings/index.js)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](algorithms/Reverse%20Linked%20List/index.js)|Easy|
 
 ### LeetCode Database
 

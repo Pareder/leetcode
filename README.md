@@ -48,3 +48,4 @@ LeetCode problems & solutions
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](sql/Duplicate%20Emails/index.sql)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](sql/Customers%20Who%20Never%20Order/index.sql)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[SQL](sql/Delete%20Duplicate%20Emails/index.sql)|Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL](sql/Rising%20Temperature/index.sql)|Easy|

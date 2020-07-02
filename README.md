@@ -38,6 +38,7 @@ LeetCode problems & solutions
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](algorithms/Reverse%20Linked%20List/index.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](algorithms/Contains%20Duplicate/index.js)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JavaScript](algorithms/Contains%20Duplicate%20II/index.js)|Easy|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[JavaScript](algorithms/Implement%20Stack%20using%20Queues/index.js)|Easy|
 
 ### LeetCode Database
 

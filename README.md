@@ -39,6 +39,7 @@ LeetCode problems & solutions
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](algorithms/Contains%20Duplicate/index.js)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JavaScript](algorithms/Contains%20Duplicate%20II/index.js)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[JavaScript](algorithms/Implement%20Stack%20using%20Queues/index.js)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](algorithms/Invert%20Binary%20Tree/index.js)|Easy|
 
 ### LeetCode Database
 

@@ -54,3 +54,4 @@ LeetCode problems & solutions
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL](sql/Rising%20Temperature/index.sql)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[SQL](sql/Big%20Countries/index.sql)|Easy|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[SQL](sql/Classes%20More%20Than%205%20Students/index.sql)|Easy|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[SQL](sql/Not%20Boring%20Movies/index.sql)|Easy|

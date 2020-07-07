@@ -41,6 +41,7 @@ LeetCode problems & solutions
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[JavaScript](algorithms/Implement%20Stack%20using%20Queues/index.js)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](algorithms/Invert%20Binary%20Tree/index.js)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[JavaScript](algorithms/Power%20of%20Two/index.js)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](algorithms/Valid%20Anagram/index.js)|Easy|
 
 ### LeetCode Database
 

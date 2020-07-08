@@ -59,3 +59,4 @@ LeetCode problems & solutions
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[SQL](sql/Classes%20More%20Than%205%20Students/index.sql)|Easy|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[SQL](sql/Not%20Boring%20Movies/index.sql)|Easy|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](sql/Swap%20Salary/index.sql)|Easy|
+|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[SQL](sql/Reformat%20Department%20Table/index.sql)|Easy|

@@ -43,6 +43,7 @@ LeetCode problems & solutions
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[JavaScript](algorithms/Power%20of%20Two/index.js)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](algorithms/Valid%20Anagram/index.js)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](algorithms/Ugly%20Number/index.js)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](algorithms/Missing%20Number/index.js)|Easy|
 
 ### LeetCode Database
 

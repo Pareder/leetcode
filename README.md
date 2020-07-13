@@ -44,6 +44,7 @@ LeetCode problems & solutions
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](algorithms/Valid%20Anagram/index.js)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](algorithms/Ugly%20Number/index.js)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](algorithms/Missing%20Number/index.js)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](algorithms/First%20Bad%20Version/index.js)|Easy|
 
 ### LeetCode Database
 

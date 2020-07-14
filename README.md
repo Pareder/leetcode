@@ -45,6 +45,7 @@ LeetCode problems & solutions
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](algorithms/Ugly%20Number/index.js)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](algorithms/Missing%20Number/index.js)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](algorithms/First%20Bad%20Version/index.js)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](algorithms/Move%20Zeroes/index.js)|Easy|
 
 ### LeetCode Database
 

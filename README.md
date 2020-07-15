@@ -46,6 +46,7 @@ LeetCode problems & solutions
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](algorithms/Missing%20Number/index.js)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](algorithms/First%20Bad%20Version/index.js)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](algorithms/Move%20Zeroes/index.js)|Easy|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](algorithms/Word%20Pattern/index.js)|Easy|
 
 ### LeetCode Database
 

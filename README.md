@@ -47,6 +47,7 @@ LeetCode problems & solutions
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](algorithms/First%20Bad%20Version/index.js)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](algorithms/Move%20Zeroes/index.js)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](algorithms/Word%20Pattern/index.js)|Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)|[JavaScript](algorithms/Nim%20Game/index.js)|Easy|
 
 ### LeetCode Database
 

@@ -48,6 +48,7 @@ LeetCode problems & solutions
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](algorithms/Move%20Zeroes/index.js)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](algorithms/Word%20Pattern/index.js)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[JavaScript](algorithms/Nim%20Game/index.js)|Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[JavaScript](algorithms/Bulls%20and%20Cows/index.js)|Easy|
 
 ### LeetCode Database
 

@@ -49,6 +49,7 @@ LeetCode problems & solutions
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](algorithms/Word%20Pattern/index.js)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[JavaScript](algorithms/Nim%20Game/index.js)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[JavaScript](algorithms/Bulls%20and%20Cows/index.js)|Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[JavaScript](algorithms/Power%20of%20Three/index.js)|Easy|
 
 ### LeetCode Database
 
